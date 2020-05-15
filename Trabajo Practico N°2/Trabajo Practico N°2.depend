@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1589492439 source:c:\users\polaco\desktop\progrlab.c\trabajo practico n°2\input.c
+	<stdio.h>
+	"input.h"
+	<string.h>
+
+1589550169 c:\users\polaco\desktop\progrlab.c\trabajo practico n°2\input.h
+
+1589550769 source:c:\users\polaco\desktop\progrlab.c\trabajo practico n°2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+	"input.h"
+
+1589550632 c:\users\polaco\desktop\progrlab.c\trabajo practico n°2\arrayemployees.h
+
+1589550925 source:c:\users\polaco\desktop\progrlab.c\trabajo practico n°2\arrayemployees.c
+	"ArrayEmployees.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
