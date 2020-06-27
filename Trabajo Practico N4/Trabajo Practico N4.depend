@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1593272420 source:c:\users\polaco\desktop\trabajo practico n4\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+	"gets.h"
+	"controller.h"
+
+1593207586 c:\users\polaco\desktop\trabajo practico n4\linkedlist.h
+
+1593207239 c:\users\polaco\desktop\trabajo practico n4\employee.h
+
+1593207695 c:\users\polaco\desktop\trabajo practico n4\parser.h
+
+1593207297 c:\users\polaco\desktop\trabajo practico n4\gets.h
+
+1593271430 c:\users\polaco\desktop\trabajo practico n4\controller.h
+
+1593207239 source:c:\users\polaco\desktop\trabajo practico n4\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+	<string.h>
+
+1593207316 source:c:\users\polaco\desktop\trabajo practico n4\gets.c
+	"gets.h"
+	<stdio.h>
+
+1593270857 source:c:\users\polaco\desktop\trabajo practico n4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593293486 source:c:\users\polaco\desktop\trabajo practico n4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	<string.h>
+	"gets.h"
+
+1593207168 source:c:\users\polaco\desktop\trabajo practico n4\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	<string.h>
+
